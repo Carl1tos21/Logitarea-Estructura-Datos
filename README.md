@@ -1,4 +1,4 @@
-# Logitarea - Gestor de Tareas
+# Proyecto Listas Enlazadas - Gestor de Tareas
 
 **Estudiante:** Carlos Daniel Flores Chilo  
 **Materia:** Estructura de Datos I  
